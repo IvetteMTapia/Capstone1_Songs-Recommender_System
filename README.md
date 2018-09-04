@@ -1,4 +1,4 @@
-# Capstone1_Songs-Recommender_System
+# Songs Recommendation System
 
 This repository contains documentation and code related to building a recomendation system for the Million Song Dataset using the song data and user listen data.
 
