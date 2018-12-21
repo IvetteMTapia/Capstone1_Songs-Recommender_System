@@ -31,11 +31,11 @@ There are several files contained in this repository that were created in the co
 
 + [**Final Project Report:**](https://github.com/IvetteMTapia/Capstone1_Songs-Recommender_System/blob/master/Reports-Graphics/Music%20Recommedation%20System%20Report.pdf) This report contains in detail business motivation, summary of recomender algorithms options and trade-offs, data wrangling steps (with visual aids), exploratory data analysis and recomender system implementation with a description of limitations and recomendations. 
 
-> [Data Wrangling Report](https://github.com/IvetteMTapia/Capstone1_Songs-Recommender_System/blob/master/Reports-Graphics/Data%20Wrangling%20Report.pdf)
+> + [Data Wrangling Report](https://github.com/IvetteMTapia/Capstone1_Songs-Recommender_System/blob/master/Reports-Graphics/Data%20Wrangling%20Report.pdf)
 
-> [Exploratory Analysis Report](https://github.com/IvetteMTapia/Capstone1_Songs-Recommender_System/blob/master/Reports-Graphics/Exploratory%20Data%20Analysis%20and%20Statistical%20Inference.pdf)
+> + [Exploratory Analysis Report](https://github.com/IvetteMTapia/Capstone1_Songs-Recommender_System/blob/master/Reports-Graphics/Exploratory%20Data%20Analysis%20and%20Statistical%20Inference.pdf)
 
-> [Summary of Recommender Research](https://github.com/IvetteMTapia/Capstone1_Songs-Recommender_System/blob/master/Reports-Graphics/Recommender%20Types%20Summary.pdf)
+> + [Summary of Recommender Research](https://github.com/IvetteMTapia/Capstone1_Songs-Recommender_System/blob/master/Reports-Graphics/Recommender%20Types%20Summary.pdf)
 
 ### Presentation
 
