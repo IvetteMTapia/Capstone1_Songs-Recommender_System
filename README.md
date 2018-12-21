@@ -16,7 +16,7 @@ There are several files contained in this repository that were created in the co
 
 ### Project Code
 
-+ **Step 1:** [Data Wrangling](https://github.com/IvetteMTapia/Capstone1_Songs-Recommender_System/blob/master/Code-Notebooks/Data%20Wrangling%20Notebook.ipynb):Cleaned and procesed .h5 files, SQL files, and text files. Produced three CSV files with song metadata,user listening data, and artist tags.
++ **Step 1:** [Data Wrangling:](https://github.com/IvetteMTapia/Capstone1_Songs-Recommender_System/blob/master/Code-Notebooks/Data%20Wrangling%20Notebook.ipynb) Cleaned and procesed .h5 files, SQL files, and text files. Produced three CSV files with song metadata,user listening data, and artist tags.
 
 + **Step 2:** Exploratory Analysis and Statistical Inference: Find exploratory analysis files [here](https://github.com/IvetteMTapia/Capstone1_Songs-Recommender_System/blob/master/Code-Notebooks/Exploratory%20Analysis%20and%20Statistical%20Inference.ipynb) and [here](https://github.com/IvetteMTapia/Capstone1_Songs-Recommender_System/blob/master/Code-Notebooks/Preliminary%20Exploratory%20Data%20Analysis.ipynb)
 
