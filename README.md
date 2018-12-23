@@ -35,4 +35,4 @@ There are several files contained in this repository that were created in the co
 
 ### Presentation
 
-+ [Presentation:]The presentation sumarizes the project motivation,findings of exploratory analysis and recomender implementation. Find summary presentation here. 
++ [Presentation:](https://github.com/IvetteMTapia/Capstone1_Songs-Recommender_System/blob/master/Reports-Graphics/Capstone%201_Music%20Recomendation%20System_Presentation.pdf)The presentation sumarizes the project motivation,findings of exploratory analysis and recomender implementation.
